@@ -1,7 +1,7 @@
 # Heat transfer
 
 This is my university project for heat transfer class. It works by specifying the structure of your item as a matrix and passing it to the solver.
-The solver then calculates the correct time-based coefficients based on the heat transfer coefficient.
+The solver then calculates the correct time-based temperatures based on the heat transfer coefficient.
 
 ## Installation and usage
 
