@@ -3,7 +3,9 @@
 This is my university project for heat transfer class. It works by specifying the structure of your item as a matrix and passing it to the solver.
 The solver then calculates the correct time-based coefficients based on the heat transfer coefficient.
 
-## Installation
+## Installation and usage
+
+### Installation
 
 You need at least python version `>3.11` for this application to work. To install the requirements using `pip`, run the following command:
 
